@@ -18,7 +18,7 @@ After conducting thorough research, I have created a visual mind map to presents
 - [<u>App engine pricing</u>](https://cloud.google.com/appengine/pricing)
 - [<u>An Introduction to GCP for Students</u>](https://www.youtube.com/watch?v=JtUIQz_EkUw)
 - [<u>Pocket base</u>](https://pocketbase.io/docs/)
-- [<u>Strapi document</u>](https://docs.strapi.io/developer-docs/)
+- [<u>Strapi document</u>](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
 - [<u>Superbass in 100s</u>](https://www.youtube.com/watch?v=zBZgdTb-dns)
 - [<u>Superbass Crash Course</u>](https://www.youtube.com/watch?v=7uKQBl9uZ00)
 - [<u>Sanity pricing</u>](https://www.sanity.io/pricing#compare-plans)
