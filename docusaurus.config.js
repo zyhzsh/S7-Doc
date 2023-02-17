@@ -38,12 +38,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        // title: '',
-        // logo: {
-        //   alt: 'Logo',
-        //   className: "Logo",
-        //   src: 'img/logo.svg',
-        // },
         items: [
           {
             href: 'https://github.com/zyhzsh/',
@@ -53,12 +47,6 @@ const config = {
           },
         ],
       },
-      // footer: {
-      //   style: 'dark',
-      //   links: [
-      //   ],
-      //   copyright: `Copyright © ${new Date().getFullYear()} Gather Space`,
-      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
