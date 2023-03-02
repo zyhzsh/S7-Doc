@@ -13,6 +13,28 @@ After conducting thorough research, I have created a visual mind map to presents
 
 ## Outcome
 
+#### Prototype
+
+- Firebase example
+  https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/firebase-example
+
+- Superbas example
+  https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/superbase-example
+
+- Sanity example
+  https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/cms-example/BE
+
+- Pocketbase example
+  https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/pocketbase-example
+
+```
+Test account for pocketbase:
+admin@admin.com
+Bgm9xAppU4ugRqM
+```
+
+#### Conclusions
+
 ## References
 
 - [<u>App engine pricing</u>](https://cloud.google.com/appengine/pricing)
