@@ -3,6 +3,7 @@ import PrototypeFirebase from '@site/src/img/BE-Prototype-firebase.png';
 import PrototypePocketbase from '@site/src/img/BE-Prototype-Pocketbase.png';
 import PrototypeSanity from '@site/src/img/BE-Prototype-Sanity.png';
 import PrototypeSupabase from '@site/src/img/BE-Prototype-Supabase.png';
+import PrototypeSupabaseTrending from '@site/src/img/BE-Supabase-Trending.png';
 
 # Backend solution
 
@@ -41,6 +42,8 @@ After conducting thorough research, I have created a visual mind map to presents
 ## Conclusions
 
 In conclusion, after careful research and consideration, our group has chosen Supabase as the best fit for our BAAS solution. The reasons behind our decision include its compatibility with our preferred front-end framework, its growing community, built-in scalability, ease of use for developers, support for complex use cases through SQL, and seamless data migration. We are confident that Supabase will provide the necessary tools and features to support our project's requirements and help us achieve our goals efficiently.
+
+<img src={PrototypeSupabaseTrending} />
 
 ## References
 
