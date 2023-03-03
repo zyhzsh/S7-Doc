@@ -21,7 +21,7 @@ After conducting thorough research, I have created a visual mind map to presents
 - Prototype Firebase example <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/firebase-example"><u>Link</u></a>
   <img src={PrototypeFirebase} />
 
-- Prototype Superbas example <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/superbase-example"><u>Link</u></a>
+- Prototype Supabase example <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/superbase-example"><u>Link</u></a>
 
 <img src={PrototypeSupabase} />
 
@@ -51,8 +51,8 @@ In conclusion, after careful research and consideration, our group has chosen Su
 - [<u>An Introduction to GCP for Students</u>](https://www.youtube.com/watch?v=JtUIQz_EkUw)
 - [<u>Pocket base</u>](https://pocketbase.io/docs/)
 - [<u>Strapi document</u>](https://docs.strapi.io/developer-docs/latest/getting-started/introduction.html)
-- [<u>Superbass in 100s</u>](https://www.youtube.com/watch?v=zBZgdTb-dns)
-- [<u>Superbass Crash Course</u>](https://www.youtube.com/watch?v=7uKQBl9uZ00)
+- [<u>Supabase in 100s</u>](https://www.youtube.com/watch?v=zBZgdTb-dns)
+- [<u>Supabase Crash Course</u>](https://www.youtube.com/watch?v=7uKQBl9uZ00)
 - [<u>Sanity pricing</u>](https://www.sanity.io/pricing#compare-plans)
 - [<u>Firebase in 100s</u>](https://www.youtube.com/watch?v=vAoB4VbhRzM)
 - [<u>Model Relational Data in Firestore NoSQL</u>](https://www.youtube.com/watch?v=jm66TSlVtcc)
