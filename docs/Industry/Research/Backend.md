@@ -5,6 +5,10 @@ import PrototypeSanity from '@site/src/img/BE-Prototype-Sanity.png';
 import PrototypeSupabase from '@site/src/img/BE-Prototype-Supabase.png';
 import PrototypeSupabaseTrending from '@site/src/img/BE-Supabase-Trending.png';
 
+import SupabasePrototypeOne from '@site/src/img/crud-supabase.gif';
+
+import SupabasePrototypeTwo from '@site/src/img/crud-supabase-prototype.gif';
+
 # Backend solution
 
 Given that the focus of this project is on the mobile application, it is imperative to explore alternatives to the traditional back-end application to minimize the maintenance expenses associated with it.
@@ -16,7 +20,7 @@ Thanks to the widespread adoption of serverless technologies and related concept
 After conducting thorough research, I have created a visual mind map to presents analysis and comparison of diverse cloud services and corresponding back-end solution. Additionally, and giving potential solutions based on the findings. <a href="https://excalidraw.com/#json=yf0sT96aDj8irjEDzpb9z,vkZFPDxXIUlKFsI80AJUug"><u>Link</u></a>
 <img src={BackendSolutionResearchOverviewImag} />
 
-## Outcome
+## Outcome - 1
 
 - Prototype Firebase example <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/firebase-example"><u>Link</u></a>
   <img src={PrototypeFirebase} />
@@ -38,6 +42,14 @@ After conducting thorough research, I have created a visual mind map to presents
   ```
 
   <img src={PrototypePocketbase} />
+
+## Outcome - 2
+
+- CRUD Supabase Prototype <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/supabase-example-2"><u>GitHub Link</u></a> <a href="https://s7-workshop-pototypes.vercel.app/"><u>Live Link</u></a>
+  <img src={SupabasePrototypeOne} />
+
+- Supabase Prototype With Concept <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/climbtrain-pototype-app"><u>GitHub Link</u></a><a href="https://s7-climbtrain-pototypes.vercel.app/"> <u>Live Link</u></a>
+  <img src={SupabasePrototypeTwo} />
 
 ## Conclusions
 
