@@ -9,7 +9,7 @@ import ProjectProgress from '@site/src/components/ProjectProgress';
 The image down below lists my perosnal learning goals and phases of the planning for this semster in general.
 <img src={S7ProjectPlan} />
 
-## Project Topic: Polestar (Shared mobility)
+## Project Topic: Shared mobility - Ownership
 
 <img src={CasePolestar} />
 
