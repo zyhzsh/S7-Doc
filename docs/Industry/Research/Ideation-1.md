@@ -1,4 +1,4 @@
-# Ideation of the solution - Challenges community
+# Ideation - Challenges & Community
 
 ## Context
 

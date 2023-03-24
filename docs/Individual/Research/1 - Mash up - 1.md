@@ -1,6 +1,6 @@
 import MashUp from '@site/src/img/mash-up-1.png';
 
-# Mash Up: Mentallty shfiting
+# Mash Up: Mentallty shfiting -> Idea Pitch
 
 ## Context:
 
@@ -17,3 +17,5 @@ Mash Up
 With the help of ChatGPT, I did inspire by the answer above.
 Combine with the feedback from the teacher form last week.
 I have narrowed my focus to bike-sharing as the specific case for my project. My current idea is to build a concept similar to "bookcrossing" but for bikes. To focus more on "ownership," I will temporarily set aside the common problems of shared bikes like illegal parking or inconvenience compared to privately-owned bicycles. My aim is to find a solution that will help users shift their mental model from "buy/rent" to "ownership" or a sense of obligation to cherish the property.
+
+_This idea was approved by Marcel on 2023-03-21_
