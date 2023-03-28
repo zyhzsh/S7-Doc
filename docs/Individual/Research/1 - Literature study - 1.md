@@ -1,7 +1,7 @@
 import BrainStorm from '@site/src/img/BrianStorm.png';
 import CasePolestar from '@site/src/img/Case-Polestar.png';
 
-# Literature study: Shared mobility
+# Literature study: Shared mobility - Idea Pitch
 
 ## Context:
 
