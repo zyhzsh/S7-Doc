@@ -13,11 +13,11 @@ Instead of treating the bikes as disposable or temporary, users should feel a se
 
 #### Outcome
 
-idea - 1:
+idea - 1: placeholder
 个人的自行车拥有者可以在指定的地点寄放自己闲置的自行车，自行车的二商或者自行车供应商也可以宣传为目的将自行车投放出租。
 
-idea - 2:
+idea - 2: placeholder
 每辆自行车的注册过程有其终身的独特 ID
 
-idea - 3:
+idea - 3: placeholder
 通过想
