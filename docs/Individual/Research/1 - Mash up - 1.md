@@ -1,6 +1,6 @@
 import MashUp from '@site/src/img/mash-up-1.png';
 
-# Mash Up: Mentallty shfiting -> Idea Pitch
+# Mash Up: Mentallty shfiting - Idea Pitch
 
 ## Context:
 
