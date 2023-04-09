@@ -1,7 +1,7 @@
 import LF1 from '@site/src/img/lf-1.png';
 import LF2 from '@site/src/img/lf-2.png';
 
-# Prototype : low fidality design
+# Prototype : Low fidality design - v0.1
 
 <strong>Figma: </strong><a href="https://www.figma.com/file/jUnPxoUIlYNK1cInlR6Hjq/Shard-mobility?node-id=0%3A1&t=PwkrBq7DfXSijwWI-1"> <u>Link</u></a>
 

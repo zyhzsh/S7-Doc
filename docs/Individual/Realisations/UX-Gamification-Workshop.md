@@ -11,7 +11,6 @@ Followed the Octalysis framework here are some of the examples idea bind with my
     - By donating your bike, get some ” points” and rent your bike anywhere around the world.
 - Ownership & Possession
   - Points
-  - Collection sets
   - Alfred effect
     - By donating their bike, the user can still track the “life path” of their bike.
     - After returning the bike, the user will become the “history owner” of the bike and be able to track the “life path.”
