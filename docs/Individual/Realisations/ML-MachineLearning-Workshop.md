@@ -1,6 +1,7 @@
 # Machine learning - Workshop
 
 import MachineLearningModelExample from '@site/src/img/ML-1.png';
+import MachineLearningModelExample2 from '@site/src/img/ML-2.png';
 
 ## Context
 
@@ -21,5 +22,7 @@ In this model it divides in five categories:
 
 - [<u>Source date</u>](/assets/bike.zip)
 - [<u>Online Model</u>](https://teachablemachine.withgoogle.com/models/Si_qu0lH4/)
-
-<img src={MachineLearningModelExample}/>
+- Teachable Machine (Tensflow)
+  <img src={MachineLearningModelExample}/>
+- Teachable Machine (Apple ML)
+  <img src={MachineLearningModelExample2}/>
