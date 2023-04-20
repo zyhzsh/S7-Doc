@@ -32,11 +32,11 @@ sidebar_position: 1
 
 | **\_**                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------- |
-| [<u>Scrum master research</u>](./Industry/Research/Agile.md)                                                           |
+| [<u>Scrum research</u>](./Industry/Research/Agile.md)                                                                  |
 | [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                                                        |
 | [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md)                                   |
+| [<u>RealTime connection</u>](./Industry/Realisation/RealtimeConnection.md)                                             |
 | - Project Set Up                                                                                                       |
 | - Sprint delivery prepration                                                                                           |
 | - Technical research prototype: validate the challenge concept and experiment with Supabase                            |
 | - Technical research prototype: validate the storytelling concept and experiment integration of Supabase, and Flutter. |
-| - Technical research prototype: build the connection for the hanging board and mobile application via the Supabase.    |
