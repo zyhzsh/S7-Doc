@@ -11,13 +11,13 @@ import SupabasePrototypeTwo from '@site/src/img/crud-supabase-prototype.gif';
 
 # Backend solution
 
-Given that the focus of this project is on the mobile application, it is imperative to explore alternatives to the traditional back-end application to minimize the maintenance expenses associated with it.
+Since the project primarily revolves around the mobile application, it is crucial to consider alternative options for the conventional back-end application. This would help reduce the maintenance costs associated with it.
 
 ## Context
 
-Thanks to the widespread adoption of serverless technologies and related concepts, many mature Backend-as-a-Service (BaaS) and Headless Content Management System (Headless CMS) solutions have emerged in the market.
+With the increasing adoption of serverless technologies, various Backend-as-a-Service (BaaS) and Headless Content Management System (Headless CMS) solutions have emerged in the market.
 
-After conducting thorough research, I have created a visual mind map to presents analysis and comparison of diverse cloud services and corresponding back-end solution. Additionally, and giving potential solutions based on the findings. <a href="https://excalidraw.com/#json=yf0sT96aDj8irjEDzpb9z,vkZFPDxXIUlKFsI80AJUug"><u>Link</u></a>
+After conducting comprehensive research, I have created a visual mind map to present the analysis and comparison of various cloud services and their corresponding back-end solutions. Moreover, based on the findings, potential solutions have been suggested. <a href="https://excalidraw.com/#json=yf0sT96aDj8irjEDzpb9z,vkZFPDxXIUlKFsI80AJUug"><u>Link</u></a>
 <img src={BackendSolutionResearchOverviewImag} />
 
 ## Outcome - 1
@@ -53,7 +53,7 @@ After conducting thorough research, I have created a visual mind map to presents
 
 ## Conclusions
 
-In conclusion, after careful research and consideration, our group has chosen Supabase as the best fit for our BAAS solution. The reasons behind our decision include its compatibility with our preferred front-end framework, its growing community, built-in scalability, ease of use for developers, support for complex use cases through SQL, and seamless data migration. We are confident that Supabase will provide the necessary tools and features to support our project's requirements and help us achieve our goals efficiently.
+After conducting thorough research and analysis of various Backend-as-a-Service (BaaS) solutions, our group has decided that Supabase is the most suitable option for our project. Our decision was based on several factors, including its seamless integration with our preferred front-end framework, its strong and growing community support, built-in scalability, developer-friendly interface, support for complex use cases through SQL, and effortless data migration. We believe that Supabase will provide us with all the necessary tools and features to meet our project's requirements effectively and help us achieve our goals efficiently.
 
 <img src={PrototypeSupabaseTrending} />
 

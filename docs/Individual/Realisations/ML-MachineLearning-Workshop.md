@@ -5,8 +5,7 @@ import MachineLearningModelExample2 from '@site/src/img/ML-2.png';
 
 ## Context
 
-to binding with my individual project, I'm going to trained a model for classifying the types of the bike.
-This can be applied when the the user wants to register their bike to the system.
+To align with my personal project, I plan to make a bike classification model that can be used to register bikes in the system.
 
 In this model it divides in five categories:
 

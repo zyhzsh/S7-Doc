@@ -5,11 +5,12 @@ import SprintActivityImg from '@site/src/img/SprintActivity.png';
 
 ## Context
 
-This semester, I have taken on the role of Scrum Master to enhance my understanding of agile development.Therefore, I have reviewed and re-summarized the responsibilities of each role in agile development. By carefully assessing the current situation, I have adjusted the working process for our team.
+To better integrate with my team members, I have revisited Agile methodologies and discussed future work approaches with them.
 
 ## Outcome
 
 - Agreement on Sprint Activities arragement.
   <img src={AgileImg} />
-- To facilitate online and offline communication, I drew on Miro and designed templates for Sprint review, Sprint planning, and Retrospective based on the actual situation
+- To facilitate effective communication both online and offline, I utilized Miro to design templates for Sprint review, Sprint planning, and Retrospective meetings, taking into account the actual working conditions and needs of the team.
+
   <img src={SprintActivityImg} />
