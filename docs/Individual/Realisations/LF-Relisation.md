@@ -9,63 +9,69 @@ import V02_5 from '@site/src/img/v0.2_5.png';
 
 ## Context
 
-Over time, my personal project concept has gradually become clearer. The current design challenge is to approach it from a holistic perspective, combining all previous concepts and presenting the overall concept and basic elements of my personal project in the form of figma.
+As time has progressed, my personal project concept has evolved and become more defined. The present design challenge is to adopt previous concepts, and visually conveying the overarching idea and fundamental elements of my personal project using the Figma design tool.
 
-The main concept revolves around "bike crossing" and "ownership," and to emphasize this element, I introduced the concept of "bike profile." This means that users can access the "life trajectory" of the bike after donating or borrowing it.
+The primary focus of my concept is centered around the idea of "bike crossing" and the concept of "ownership." To emphasize this theme, I have introduced the "bike profile" concept, which allows users to access the bike's "life trajectory" after donating or borrowing it.
 
-The supporting elements include
+The supporting elements of this concept include:
 
-- point system
-- donation/rent/return process
-- bike profile
-- mini quest system (reword point)
-- badget system
+- Point system
+- Donation/rent/return process
+- Bike profile
+- Mini quest system (reword point)
+- Badget system (less important at the moment)
 
 [Link](https://www.figma.com/file/jUnPxoUIlYNK1cInlR6Hjq/Shard-mobility?node-id=21%3A689&t=j0IZuaqrIrcN2PvE-1)
 
 #### Concept - 1 Type of bike
 
-As renters of bicycles, users have different needs and purposes. They may not require a bicycle regularly but require one in certain situations, such as:
+As bicycle renters, users may have diverse needs and purposes. Some of these include:
 
-- Individuals on a family trip who want to explore the surrounding area.
-- People planning a long-distance Bike road trip who do not have road bikes.
-- Freshmen who want to borrow a bike temporarily to meet their grocery shopping needs.
-- Business travelers staying in hotels who want to tour the surrounding environment.
-- People who enjoy trying out certain types of self-washing cars but do not want to purchase one.
+- Individuals on a trip who want to explore the surrounding area on a bike.
+- Families on vacation who wish to explore the local area.
+- Individuals planning a long-distance bike trip who do not own road bikes.
+- College students who require a temporary bike for grocery shopping and commuting.
+- Business travelers staying in hotels who wish to tour the surrounding environment.
+- Individuals who enjoy trying out various types of bikes but do not wish to purchase one.
+- Etc.
 
 <img src={V02_1}/>
 
 #### Concept - 2 Bike profile
 
-The introduction of a "bike profile" can trigger the Alfred Effect and co-creation in the Octalysis framework. As renters of bicycles interact with the mini-quest and become involved in the construction of the bike's story, they will unconsciously develop a stronger attachment to the bike and cherish it more.
+Introducing the "bike profile" concept has the potential to trigger the Alfred Effect and co-creation principles within the Octalysis framework. As bicycle renters engage in mini-quests and actively participate in constructing the bike's story, they will develop a deeper emotional connection with the bike and appreciate it more unconsciously.
 
 <img src={V02_2}/>
 
 #### Concept - 3 Rent/Return Process
 
-The services provided by our platform differ from those of platforms that offer one-time rentals.
+Our platform's services differ from those of other platforms that offer one-time bicycle rentals.
 
-Our target users typically plan their rentals in advance, such as renting for a day, two days, or a week, rather than renting by the hour or minute. As a result, the demand for bicycle storage distribution points is reduced. This provides a new business cooperation model with bicycle retailers and repair shops located throughout the city.
+Our target users typically plan their rentals in advance, renting for a day, two days, or a week, rather than renting on an hourly or minute basis. As a result, the demand for bicycle storage distribution points is reduced, creating a new business cooperation model with bicycle retailers and repair shops located throughout the city.
 
-Users can earn points by completing maintenance activities, such as tire replacements, which can be used to rent bicycles in the future. Repair shops provide drop-off locations for the platform, while also increasing revenue by selling accessories and repair services.
+Users have the opportunity to earn points by completing maintenance activities, such as tire replacements, which can be used to rent bicycles in the future. Repair shops provide drop-off locations for the platform, while also generating additional revenue by selling accessories and repair services.
+
 <img src={V02_3}/>
 
 #### Concept - 4 Mini quest
 
-Introducing mini quests can bring multiple benefits:
+The introduction of mini quests can offer several benefits:
 
-- By completing simple maintenance tasks such as cleaning and lubricating, users can effectively extend the lifespan of the bike.
-- Users can earn rewards or credits by completing mini tasks, which can be used for future bike rentals. As users complete these tasks, they will unconsciously develop a stronger attachment to the bike they have rented.
-- These mini tasks can enrich the bike's profile. Past bike renters will feel that they have participated in a meaningful activity when they review this information.
+- By completing simple maintenance tasks such as cleaning and lubricating, users can effectively extend the lifespan of the rented bike.
+- Users can earn rewards or credits by completing mini tasks, which can be used for future bike rentals. As users complete these tasks, they will develop a stronger attachment to the bike they have rented.
+- These mini tasks can enrich the bike's profile, allowing past bike renters to feel that they have participated in a meaningful activity.
+
   <img src={V02_4}/>
-  Currently, the mini quests you have designed can be roughly divided into several categories (which may be updated in the future based on needs):
-  <img src={V02_4_1}/>
+
+Based on current design, the mini quests can be categorized into several groups, which may be subject to modification in the future according to user needs:
+
+<img src={V02_4_1}/>
 
 #### Concept - 5 Badget/Achievements system
 
-The system has not been fully implemented in the design yet, but the basic concept and idea is to increase user stickiness by introducing an achievement badge system. For example, different levels of badges can be awarded based on the number of points a user has earned through platform activities.
+The badge system can also serve as a visual representation of a user's accomplishments and history within the platform. It can enhance the feeling of ownership and pride in the bikes they have rented and maintained, further increasing their attachment to the platform.
 
-Another idea is to award badges for bikes that have been rented and returned in good condition, or for bikes that have traveled a certain distance. According to research, a well-maintained bike can last for decades. This can be used as a selling point to award badges and further encourage users to cherish and take care of the bikes they rent.
+Additionally, the badge system can be integrated with social media platforms, allowing users to showcase their achievements and share their experiences with friends and family. This can potentially attract new users to the platform and expand its reach.
 <img src={V02_5}/>
 
 #### Concept - 6 Future and imagination
@@ -75,3 +81,5 @@ These are some interesting scenarios to imagine:
 - Imagine a userA, who donated his bike in country C. Several years later, his son travels to country D and happens to rent the same bike that A had donated on the platform. What a fascinating coincidence that would be!
 
 - Fast forward several years into the future, due to the revolution in battery technology, human-powered bicycles have become outdated and are no longer popular or widely used. However, the bike that was released into the "drift" years ago is still out there, surviving through time.
+
+- Imagine a user who donates their old bike to the platform, but it is in poor condition and needs extensive repairs. A local repair shop partnered with the platform picks up the bike, repairs it, and updates its "bike profile" with the repair history. Several months later, another user rents the bike and sees the improvements made to it, encouraging them to take good care of it and return it in good condition.
