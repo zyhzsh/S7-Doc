@@ -7,14 +7,14 @@ sidebar_position: 1
 #### Workshop
 
 | **\_\_**                                                                                                                |
-| :---------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------------------------------------------------------------------------------------------------- |
 | [<u>24 ways of communication - vibration communication</u>](./Individual/Realisations/24-Way-communication-Workshop.md) |
 | [<u>Reactive Soundscape - AI logo maker</u>](./Individual/Realisations/AI-Reactive-Soundscape-Workshop.md)              |
 | [<u>AR - Modern and retro Music</u>](./Individual/Realisations/AR-Workshop.md)                                          |
 | [<u>Machine learning - Bike classification filter</u>](./Individual/Realisations/ML-MachineLearning-Workshop.md)        |
 | [<u>UI/UX Platform conventions - Material design guidelines</u>](./Individual/Realisations/UI-Workshop.md)              |
 | [<u>UX Gamification - Octalysis framework</u>](./Individual/Realisations/UX-Gamification-Workshop.md)                   |
-| -Userbility test                                                                                                        |
+| - Userbility test                                                                                                       |
 
 #### BikeCorssing (Individual)
 
@@ -29,13 +29,13 @@ sidebar_position: 1
 
 #### ClimbTrain(Group)
 
-| \_\_\_\_                                                                                                              |
-| --------------------------------------------------------------------------------------------------------------------- |
-| [<u>Scrum master research</u>](./Industry/Research/Agile.md)                                                          |
-| [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                                                       |
-| [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md)                                  |
-| -Sprint delivery prepration                                                                                           |
-| -Technical research prototype: validate the challenge concept and experiment with Supabase                            |
-| -Technical research prototype: validate the storytelling concept and experiment integration of Supabase, and Flutter. |
-| -Technical research prototype: build the connection for the hanging board and mobile application via the Supabase.    |
-|                                                                                                                       |
+| **\_**                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------- |
+| [<u>Scrum master research</u>](./Industry/Research/Agile.md)                                                           |
+| [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                                                        |
+| [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md)                                   |
+| - Project Set Up                                                                                                       |
+| - Sprint delivery prepration                                                                                           |
+| - Technical research prototype: validate the challenge concept and experiment with Supabase                            |
+| - Technical research prototype: validate the storytelling concept and experiment integration of Supabase, and Flutter. |
+| - Technical research prototype: build the connection for the hanging board and mobile application via the Supabase.    |
