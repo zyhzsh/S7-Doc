@@ -25,10 +25,11 @@ sidebar_position: 1
 | [<u>Technical Relisation</u>](./Individual/Realisations/Tech-Relisation.md)                                   |
 | [<u>Design skill study</u>](./Individual/Research/1%20-%20UI_UX%20Study.md)                                   |
 
-| ClimbTrain(Group)                                                                    |
-| ------------------------------------------------------------------------------------ |
-| [<u>Agile & Management & Communication</u>](./Industry/Realisation/Agile.md)         |
-| [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                      |
-| [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md) |
-| [<u>Handover Documentation</u>](./Industry/Realisation/HandoverDocumentation.md)     |
-| [<u>RealTime connection</u>](./Industry/Realisation/RealtimeConnection.md)           |
+| ClimbTrain(Group)                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [<u>Agile & Management & Communication</u>](./Industry/Realisation/Agile.md)                                        |
+| [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                                                     |
+| [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md)                                |
+| [<u>Community Research: The story of ascending a renowned rock formation</u>](./Industry/Realisation/ClimbStory.md) |
+| [<u>Handover Documentation</u>](./Industry/Realisation/HandoverDocumentation.md)                                    |
+| [<u>RealTime connection</u>](./Industry/Realisation/RealtimeConnection.md)                                          |
