@@ -15,6 +15,8 @@ In this model it divides in five categories:
 - Mountain bike
 - Special bike
 
+This implementation has potentially to improve bike registration process into the system to labeling the cateogy of the bike.
+
 [<u>Design reference</u>](./LF-Relisation.md)
 
 ## Outcomes

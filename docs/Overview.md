@@ -27,9 +27,8 @@ sidebar_position: 1
 
 | ClimbTrain(Group)                                                                    |
 | ------------------------------------------------------------------------------------ |
-| [<u>Scrum research</u>](./Industry/Research/Agile.md)                                |
+| [<u>Agile & Management & Communication</u>](./Industry/Realisation/Agile.md)         |
 | [<u>BAAS solution Research</u>](./Industry/Research/Backend.md)                      |
 | [<u>Solution ideation: Challenge & Community</u>](./Industry/Research/Ideation-1.md) |
 | [<u>Handover Documentation</u>](./Industry/Realisation/HandoverDocumentation.md)     |
 | [<u>RealTime connection</u>](./Industry/Realisation/RealtimeConnection.md)           |
-| - Sprint delivery prepration                                                         |
