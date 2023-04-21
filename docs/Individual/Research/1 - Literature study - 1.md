@@ -25,3 +25,10 @@ For this reason, it is necessary to establish a hidden self-monitoring mechanism
 ## Next:
 
 Ideation of how to estabilished a self-monitoring mechanism to help the Mentallty shfiting for the user to increase their ownership and reduce the abuse of the propety.
+
+## References:
+
+- [<u>From Ownership to Access:How the Sharing Economy is Changing the Consumer Behavior</u>](https://www.researchgate.net/publication/325169044_From_Ownership_to_Access_How_the_Sharing_Economy_is_Changing_the_Consumer_Behavior)
+- [<u>The Sharing Economy Isn’t About Sharing at All</u>](https://hbr.org/2015/01/the-sharing-economy-isnt-about-sharing-at-all)
+- [<u>Sharing isn't always caring: Why don't consumers take care of their Zipcars?</u>](https://phys.org/news/2012-07-isnt-dont-consumers-zipcars.html)
+- [<u>Ride On! Mobility Business Models for the Sharing Economy</u>](https://journals.sagepub.com/doi/pdf/10.1177/1086026614546199)
