@@ -23,6 +23,7 @@ sidebar_position: 1
 | [<u>Low fidelity design (Figma) - v0.1</u>](./Individual/Research/1%20-%20Prototype%20-%201.md)               |
 | [<u>Low fidelity prototype (Figma) - v0.2</u>](./Individual/Realisations/LF-Relisation.md)                    |
 | [<u>Technical Relisation</u>](./Individual/Realisations/Tech-Relisation.md)                                   |
+| [<u>Design skill study</u>](./Individual/Research/1%20-%20UI_UX%20Study.md)                                   |
 
 | ClimbTrain(Group)                                                                    |
 | ------------------------------------------------------------------------------------ |
