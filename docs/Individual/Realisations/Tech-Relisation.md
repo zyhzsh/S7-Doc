@@ -1,3 +1,6 @@
+import Tech1 from '@site/src/img/tech_1.png';
+import {VideoQuizApp} from '@site/src/components/VideoPreview'
+
 # Technical Relisation
 
 #### Repository
@@ -11,8 +14,13 @@ _via this [<u>link</u>](https://github.com/zyhzsh/s7-workshop-pototypes) you can
 - **Topic: State and Widget life cycle for (Flutter)**
 
   Goal: Technical research to acquire a fundimental understanding of the Flutter framework and the Dart programming language.
+  <div style={{ backgroundColor: '#F9F9F9', padding: '20px' , display:'flex', 'flex-wrap': 'wrap' ,'justify-content': 'center' }}>
+    <img src={Tech1} style={{width:200,padding: '20px' }}/>
+    <VideoQuizApp />
+  </div>
 
-  - [<u>Github</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
+- [<u>Github - 1</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
+- [<u>Github - 2</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/quiz_demo_app)
 
 - **Topic: Satemanagement & Styling & theme for application (Flutter)**
 

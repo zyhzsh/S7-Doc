@@ -20,7 +20,6 @@ Here are some screenshots to demonstrate my learning efforts
 <img src={UIUX2} style={{width:300,padding: '20px' }}/>
 <img src={UIUX1} style={{width:300,padding: '20px' }}/>
 <img src={UIUX3} style={{width:300,padding: '20px' }}/>
-
 <img src={UIUX4} style={{width:300,padding: '20px' }}/>
 <img src={UIUX5} style={{width:300,padding: '20px' }}/>
 

@@ -1,5 +1,5 @@
 import LogoMakerScreenShot from '@site/src/img/logo-maker.png';
-import {VideoPreviewOne} from '@site/src/components/VideoPreview'
+import {VideoLogoMaker} from '@site/src/components/VideoPreview'
 
 # Reactive Soundscape - AI Logo maker
 
@@ -13,6 +13,6 @@ I recently had a random idea to create a good logo for both my group and individ
 
 ## App Demo
 
-<VideoPreviewOne/>
+<VideoLogoMaker/>
 
 <a href="https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/reactive_soundscape"><u>Github</u></a> <br/>
