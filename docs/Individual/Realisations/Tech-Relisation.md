@@ -1,5 +1,5 @@
 import Tech1 from '@site/src/img/tech_1.png';
-import {VideoQuizApp} from '@site/src/components/VideoPreview'
+import {VideoQuizApp,VideoShoppingList,VideoMealApp} from '@site/src/components/VideoPreview';
 
 # Technical Relisation
 
@@ -14,19 +14,35 @@ _via this [<u>link</u>](https://github.com/zyhzsh/s7-workshop-pototypes) you can
 - **Topic: State and Widget life cycle for (Flutter)**
 
   Goal: Technical research to acquire a fundimental understanding of the Flutter framework and the Dart programming language.
-  <div style={{ backgroundColor: '#F9F9F9', padding: '20px' , display:'flex', 'flex-wrap': 'wrap' ,'justify-content': 'center' }}>
-    <img src={Tech1} style={{width:200,padding: '20px' }}/>
-    <VideoQuizApp />
-  </div>
 
-- [<u>Github - 1</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
-- [<u>Github - 2</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/quiz_demo_app)
+- [<u>Quiz App - 1</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
+- [<u>Quiz App - 2</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/quiz_demo_app)
 
-- **Topic: Satemanagement & Styling & theme for application (Flutter)**
+  <VideoQuizApp />
+
+- **Topic: Simple Satemanagement & Styling & theme for application (Flutter)**
 
   Goal: Obtain essential skills for setting up a Flutter project with Material3 Theming and implementing best practices for state updates in comment use case.
 
-  - [<u>Github</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter_interactivity_theming)
+  - [<u>Expense App </u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter_interactivity_theming)
+
+  <img src={Tech1} style={{width:200,padding: '20px' }}/>
+
+- **Topic: Satemanagement (Riverpod) & Mutiple Screen for application (Flutter)**
+
+  Goal: Obtain the knowledge and best practices for statemangement pattern for mutiple screen
+
+  - [<u>Recipe App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/muti-screen-app-navigating)
+
+<VideoMealApp/>
+
+- **Topic: Http Request and handling in Flutter**
+
+  Goal: Obtain the knowledge and pattern handling http request.
+
+- [<u>Shoping List App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/shoppinglist)
+
+<VideoShoppingList/>
 
 - **Topic: CRUD Operation (Supabase)**
 
