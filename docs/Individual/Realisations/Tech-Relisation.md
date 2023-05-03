@@ -1,5 +1,5 @@
 import Tech1 from '@site/src/img/tech_1.png';
-import {VideoQuizApp,VideoShoppingList,VideoMealApp} from '@site/src/components/VideoPreview';
+import {VideoQuizApp,VideoShoppingList,VideoMealApp,NativeFeatureApp} from '@site/src/components/VideoPreview';
 
 # Technical Relisation
 
@@ -15,8 +15,8 @@ _via this [<u>link</u>](https://github.com/zyhzsh/s7-workshop-pototypes) you can
 
   Goal: Technical research to acquire a fundimental understanding of the Flutter framework and the Dart programming language.
 
-- [<u>Quiz App - 1</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
-- [<u>Quiz App - 2</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/quiz_demo_app)
+  - [<u>Quiz App - 1</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/flutter_demo_one)
+  - [<u>Quiz App - 2</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/quiz_demo_app)
 
   <VideoQuizApp />
 
@@ -40,9 +40,17 @@ _via this [<u>link</u>](https://github.com/zyhzsh/s7-workshop-pototypes) you can
 
   Goal: Obtain the knowledge and pattern handling http request.
 
-- [<u>Shoping List App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/shoppinglist)
+  - [<u>Shoping List App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/shoppinglist)
 
 <VideoShoppingList/>
+
+- **Topic: Native Feature : Carmera, GPS, Google Map**
+
+  Goal: Obtain the knowledge and pattern to handling local storage, map.
+
+  - [<u>Native Feature App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/native-device-feature)
+
+<NativeFeatureApp/>
 
 - **Topic: CRUD Operation (Supabase)**
 
