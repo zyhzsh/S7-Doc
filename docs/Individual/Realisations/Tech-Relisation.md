@@ -1,11 +1,19 @@
 import Tech1 from '@site/src/img/tech_1.png';
 import {VideoQuizApp,VideoShoppingList,VideoMealApp,NativeFeatureApp} from '@site/src/components/VideoPreview';
+import DeploymentIOS from '@site/src/img/Deployment-TestFlight.jpeg';
+import DeploymentAndorid from '@site/src/img/deployment-2.png';
+import QR from '@site/src/img/andorid-qr.png';
+import QRS from '@site/src/img/QR_Code.png';
 
 # Technical Relisation
 
-#### Repository
+#### Individual Projects (BikeCrossing)
 
-- [<u>BookCorssing</u>](https://github.com/zyhzsh/BikeCorssing)
+- [<u>Github</u>](https://github.com/zyhzsh/BikeCorssing)
+- [<u>Google Play Store</u>](https://play.google.com/store/apps/details?id=com.s7.bikecrossing)
+- [<u>Ios Open TestFlight</u>](https://testflight.apple.com/join/WJRUaEu8)
+
+<img src={QRS} />
 
 #### Other experiment/research work
 
@@ -46,7 +54,7 @@ _via this [<u>link</u>](https://github.com/zyhzsh/s7-workshop-pototypes) you can
 
 - **Topic: Native Feature : Carmera, GPS, Google Map**
 
-  Goal: Obtain the knowledge and pattern to handling local storage, map.
+  **Goal**: Obtain the knowledge and pattern to handling local storage, map.
 
   - [<u>Native Feature App</u>](https://github.com/zyhzsh/s7-workshop-pototypes/tree/main/flutter-basic/native-device-feature)
 
