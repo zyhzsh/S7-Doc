@@ -3,14 +3,14 @@ import UserTestProof from '@site/src/img/mash-up-1.png';
 # Tests
 
 | Test Number: 01                                                                                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Date: ** 05-09-2023 ～ 12-05-2023                                                                                                                                                                                        |
 | **Version status：**<br/> The overall interaction of the application and part of the UI have been realized according to the concept.                                                                                       |
 | **Number of Testers：**Approximately 15 (Software student,Graduated,housewife)                                                                                                                                             |
 | **Social identity of testers：**<br/>- ICT student <br/>- ICT teacher<br/>- Professional photography editor<br/>- Logistic supervisor <br/>- Housewife <br/>- Healthcare student <br/>- Restaurant owner<br/>- Father<br/> |
-| **Test purpose：** <br/>- Test concept acceptance<br/>- Whether the user has doubts about the interaction when using it.                                                                                                   |     |
+| **Test purpose：** <br/>- Test concept acceptance<br/>- Whether the user has doubts about the interaction when using it.                                                                                                   |
 
-**Feedback:
+**Feedback - 01:
 **
 
 - Onboarding Process:

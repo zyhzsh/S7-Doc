@@ -1,8 +1,5 @@
 import Tech1 from '@site/src/img/tech_1.png';
 import {VideoQuizApp,VideoShoppingList,VideoMealApp,NativeFeatureApp} from '@site/src/components/VideoPreview';
-import DeploymentIOS from '@site/src/img/Deployment-TestFlight.jpeg';
-import DeploymentAndorid from '@site/src/img/deployment-2.png';
-import QR from '@site/src/img/andorid-qr.png';
 import QRS from '@site/src/img/QR_Code.png';
 
 # Technical Relisation
