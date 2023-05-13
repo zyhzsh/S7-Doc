@@ -1,8 +1,10 @@
 import UserTestProof from '@site/src/img/mash-up-1.png';
 
-# Tests
+# User Test
 
-| Test Number : 01                                                                                                                                                                                                           |
+#### Test - 01
+
+|                                                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Date: ** 05-09-2023 ～ 12-05-2023                                                                                                                                                                                        |
 | **Version status：**<br/> The overall interaction of the application and part of the UI have been realized according to the concept.                                                                                       |
@@ -12,6 +14,8 @@ import UserTestProof from '@site/src/img/mash-up-1.png';
 
 **Feedback - 01:
 **
+
+Feedback for implementation:
 
 - Onboarding Process:
 
@@ -34,3 +38,10 @@ import UserTestProof from '@site/src/img/mash-up-1.png';
   - Some users did not notice the presence of a QR scanner button at the bottom of the screen.
   - Overview of Design:
   - Users recommended exploring discoverable design principles to enhance and refine the overall design.
+
+**Conclusions:**  
+During the first round of technical user testing, most users easily understood and accepted the concept. However, some expressed interest in the charging mode (how users pay for the rent) and raised questions regarding management issues. These concerns include uniform management of bicycles, registration processes, and whether donors are free to leave their bikes on the side of the road.
+
+When initially designing and conceptualizing the idea, I had already taken these issues into consideration. However, the users' feedback has reignited my thoughts on these topics, and I have some new ideas to explore.
+
+Given the limited time available, I plan to prioritize refining the existing technical details based on user feedback. Once the next round of user testing is completed, I will evaluate the scope and feasibility of delving deeper into these concept topics, including the charging mode and management issues.
