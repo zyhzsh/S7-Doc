@@ -74,7 +74,7 @@ Todo for a tester:
 - Consider incorporating additional aspects to the bike-finding process:
   - Allow users to search for bikes by location, display the pickup location on a map or offer an alternative interactive method.
   - Highlight the bike's story to help users locate a suitable bike.
-- Some users feel surprised or confused after renting the bike, unsure of what to do next to progress with the story quest.
+- Some users feel surprised and confused after they had rented the bike, and lost the idea of what to next (finish a story quest).
 
 **Conclusions:**
 

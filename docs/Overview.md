@@ -36,3 +36,5 @@ sidebar_position: 1
 | [<u>Community Research: The story of ascending a renowned rock formation</u>](./Industry/Realisation/ClimbStory.md) |
 | [<u>Handover Documentation</u>](./Industry/Realisation/HandoverDocumentation.md)                                    |
 | [<u>RealTime connection</u>](./Industry/Realisation/RealtimeConnection.md)                                          |
+| [<u>Ideation: Story telling concept</u>](./Industry/Realisation/Storytelling-Concept.md)                            |
+| [<u>Test concepts with persona</u>](./Industry/Research/Concept-Validation.md)                                      |
