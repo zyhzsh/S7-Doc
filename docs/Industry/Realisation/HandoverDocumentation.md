@@ -2,7 +2,8 @@
 
 ## Context
 
-I have revised the project documentation to ensure ease of project initiation for other team members and future successors.
+I have revised the readme guide to ensure ease of project initiation for other team members and future successors.
+In addition, me and my team have written a reading guide and for the group project check [<u>this</u>](/assets/ClimbTraining.pdf) for the details.
 
 ## Outcome: The markdown documentation
 
