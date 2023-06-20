@@ -6,7 +6,8 @@ import MealAppVideo from '../../src/videos/meal_app.mp4'
 import NativeFeatureVideo from '../../src/videos/native_feature.mp4'
 import DocScannerVideo from '../../src/videos/Doc_Scanner_MVP.mp4'
 import StoryShareVideo from '../../src/videos/bikecrossing_storyshare.mp4'
-
+import BikeMVPVideo from '../../src/videos/bike-mvp.mp4';
+import DocScannerMVPVideo from '../../src/videos/doc-mvp.mp4';
 
 
 
@@ -50,5 +51,17 @@ export const DocScannerApp = () => {
 export const StoryShare = () => {
   return (
     <ReactPlayer width={300} playing controls url={StoryShareVideo} />
+  )
+}
+
+
+export const BikeMVP = () => {
+  return (
+    <ReactPlayer width={300} playing controls url={BikeMVPVideo} />
+  )
+}
+export const DocScannerMVP = () => {
+  return (
+    <ReactPlayer width={300} playing controls url={DocScannerMVPVideo} />
   )
 }

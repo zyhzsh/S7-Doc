@@ -2,6 +2,17 @@
 sidebar_position: 1
 ---
 
+import {BikeMVP,DocScannerMVP} from '@site/src/components/VideoPreview';
+
+### Quick Demo
+
+<div style={{display:'flex'}} >
+<BikeMVP/>
+<DocScannerMVP/>
+</div>
+
+[<u><strong>Download Presentation</strong></u>](/assets/Individual%20Project.pptx)
+
 ### Quick Guide
 
 | Workshop                                                                                                                |
